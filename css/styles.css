@@ -83,17 +83,18 @@ ul {
 .navigation {
   align-items: center;
   padding: 24px 0;
+}
+nav {
+  display: flex;
+}
+.nav-list {
   color: #2e2f42;
   letter-spacing: 0.02em;
   font-weight: 500;
   display: flex;
   gap: 40px;
 }
-nav {
-  display: flex;
-}
-
-.nav-item {
+.nav-list-item {
   padding: 24px 0;
 }
 .contacts {
