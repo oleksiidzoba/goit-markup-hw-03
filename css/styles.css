@@ -94,7 +94,7 @@ nav {
   display: flex;
   gap: 40px;
 }
-.nav-list-item {
+.nav-link {
   padding: 24px 0;
 }
 .contacts {
