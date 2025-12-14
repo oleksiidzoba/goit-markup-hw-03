@@ -82,8 +82,7 @@ ul {
 }
 .navigation {
   align-items: center;
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding: 24px 0;
 }
 nav {
   display: flex;
@@ -169,7 +168,7 @@ nav {
   gap: 24px;
 }
 .info-sub-title {
-  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
   margin-bottom: 8px;
 }
 /*team section*/
