@@ -167,8 +167,10 @@ nav {
   display: flex;
   gap: 24px;
 }
-.info-sub-title {
+.info-list-item {
   flex-basis: calc((100% - 72px) / 4);
+}
+.info-sub-title {
   margin-bottom: 8px;
 }
 /*team section*/
